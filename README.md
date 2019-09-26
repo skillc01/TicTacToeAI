@@ -26,7 +26,7 @@ Will work with previous java version also.
 
 * [Java](https://www.java.com/en/download/) 
 
-## Screenshots and video
+## Screenshots of Game
 
 ![Game](https://raw.githubusercontent.com/ChloeLS/TicTacToeAI/master/LoseAndDraw.png)
 
