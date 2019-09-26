@@ -1,8 +1,4 @@
-package AIassignment;
-
-// Chloe Skillman  reg no. - 1601341
-//cs16523 
-
+package tictactoe;
 import java.util.*;
 
 class Point {
