@@ -1,9 +1,4 @@
-package AIassignment;
-
-//Made by Chloe Skillman  reg no. - 1601341
-
-//Made by cs16523 
-
+package tictactoe;
 import java.util.*;
 
 
